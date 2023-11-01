@@ -1,5 +1,5 @@
 # ⚔ Godot 2D Survivors
-<p align=left><img src = "https://github.com/MinSungJe/Godot2DSurvivors/assets/101497652/07314a6e-8bdb-4f42-b7f0-2cc37720e8ef" width="100%" height="100%"></p>
+<p align=center><img src = "https://github.com/MinSungJe/Godot2DSurvivors/assets/101497652/07314a6e-8bdb-4f42-b7f0-2cc37720e8ef" width="70%" height="70%"></p>
 
 > 🏹 Practice for Godot with making 2D Survivors Game.  
 >>**🗡 Reference** : [ **Create a Complete 2D Survivors Style Game in Godot 4** 
@@ -15,10 +15,14 @@
 
 ## 📢 Recent Update
 **⚙ (2023-11-01)**
-> # ✨ Start of Course
+> # ✏ Start of Course
 > **Setup**
 >- Godot 4 기본 Setup
 >- Git Repository 생성
+>
+> **Player**
+>- Player 생성
+>- Sprite, CollisionShape 추가
 
 
 ## 🧾 Update History
