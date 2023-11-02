@@ -14,7 +14,16 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-01)**
+**⚙ (2023-11-02)**
+> **Player**
+>- 기본적인 Movement 추가
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-01)</b></summary>
+
 > # ✏ Start of Course
 > **Setup**
 >- Godot 4 기본 Setup
@@ -23,13 +32,4 @@
 > **Player**
 >- Player 생성
 >- Sprite, CollisionShape 추가
-
-
-## 🧾 Update History
-
-<details>
-<summary><b>⚙ (YYYY-MM-DD)</b></summary>
-
-> **Title**
->- Title에 대한 설명
 </details>
