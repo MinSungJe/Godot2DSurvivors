@@ -20,7 +20,10 @@
 >
 > **Map**
 >- TileMap, TileSet 추가
-
+>
+> **Game Camera**
+>- GameCamera 추가
+>- 이제 GameCamera가 Player를 따라다니며 화면을 움직임
 
 ## 🧾 Update History
 
