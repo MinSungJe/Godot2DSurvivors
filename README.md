@@ -17,6 +17,9 @@
 **⚙ (2023-11-02)**
 > **Player**
 >- 기본적인 Movement 추가
+>
+> **Map**
+>- TileMap, TileSet 추가
 
 
 ## 🧾 Update History
