@@ -14,7 +14,18 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-02)**
+**⚙ (2023-11-03)**
+> **Enemy**
+>- Basic Enemy(Rat) 추가
+>- Player를 추적하는 기본적인 Movement 추가
+>- Player와 Enemy가 충돌하지 않도록 Layer 설정
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-02)</b></summary>
+
 > **Player**
 >- 기본적인 Movement 추가
 >
@@ -24,8 +35,7 @@
 > **Game Camera**
 >- GameCamera 추가
 >- 이제 GameCamera가 Player를 따라다니며 화면을 움직임
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-01)</b></summary>
