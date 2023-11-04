@@ -14,14 +14,22 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-03)**
+**⚙ (2023-11-04)**
+> **Ability**
+>- Sword Ability 추가
+>- 1.5초마다 검이 나오기만 함 (공격기능 미구현)
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-03)</b></summary>
+
 > **Enemy**
 >- Basic Enemy(Rat) 추가
 >- Player를 추적하는 기본적인 Movement 추가
 >- Player와 Enemy가 충돌하지 않도록 Layer 설정
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-02)</b></summary>
