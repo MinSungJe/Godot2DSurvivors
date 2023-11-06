@@ -17,6 +17,7 @@
 **⚙ (2023-11-06)**
 > **Ability**
 >- Sword Ability Animation 추가
+>- 이제 Sword Ability가 Player 주변의 가까운 Enemy에서 나옴
 
 
 ## 🧾 Update History
