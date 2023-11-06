@@ -16,11 +16,18 @@
 ## 📢 Recent Update
 **⚙ (2023-11-04)**
 > **Ability**
->- Sword Ability 추가
->- 1.5초마다 검이 나오기만 함 (공격기능 미구현)
+>- Sword Ability Animation 추가
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-04)</b></summary>
+
+> **Ability**
+>- Sword Ability 추가
+>- 1.5초마다 검이 나오기만 함 (공격기능 미구현)
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-03)</b></summary>
