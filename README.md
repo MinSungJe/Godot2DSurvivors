@@ -14,7 +14,7 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-04)**
+**⚙ (2023-11-06)**
 > **Ability**
 >- Sword Ability Animation 추가
 
