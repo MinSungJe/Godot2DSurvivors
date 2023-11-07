@@ -18,6 +18,10 @@
 > **Ability**
 >- 이제 Sword Ability가 Enemy를 없앰
 >- 이제 Sword Ability가 Enemy 주변에서 적절하게 회전되어 공격함
+>
+> **Enemy Manager**
+>- Enemy Manager 추가
+>- 이제 Basic Enemy가 플레이어 주변에서 자동으로 생성됨
 
 
 ## 🧾 Update History
