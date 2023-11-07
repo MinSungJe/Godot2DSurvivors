@@ -14,13 +14,21 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-06)**
+**⚙ (2023-11-07)**
 > **Ability**
->- Sword Ability Animation 추가
->- 이제 Sword Ability가 Player 주변의 가까운 Enemy에서 나옴
+>- 이제 Sword Ability가 Enemy를 없앰
+>- 이제 Sword Ability가 Enemy 주변에서 적절하게 회전되어 공격함
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-06)</b></summary>
+
+> **Ability**
+>- Sword Ability Animation 추가
+>- 이제 Sword Ability가 Player 주변의 가까운 Enemy에서 나옴
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-04)</b></summary>
