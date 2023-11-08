@@ -1,9 +1,9 @@
-[gd_scene load_steps=2 format=3 uid="uid://dp04g30empfq7"]
+[gd_scene load_steps=2 format=3 uid="uid://bo51r1gmn1xe8"]
 
-[ext_resource type="Script" path="res://scenes/ui/area_time_ui.gd" id="1_m0s4o"]
+[ext_resource type="Script" path="res://scenes/ui/arena_time_ui.gd" id="1_bx4bx"]
 
-[node name="AreaTimeUI" type="CanvasLayer"]
-script = ExtResource("1_m0s4o")
+[node name="ArenaTimeUI" type="CanvasLayer"]
+script = ExtResource("1_bx4bx")
 
 [node name="MarginContainer" type="MarginContainer" parent="."]
 anchors_preset = 15
