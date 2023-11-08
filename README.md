@@ -25,6 +25,10 @@
 >
 > **Motion Mode Setting**
 >- Player, Enemy의 Motion Mode를 Grounded -> Floating으로 변경
+>
+> **Time**
+>- ArenaTimeManager, ArenaTimeUI 추가
+>- 이제 진행 시간이 UI로 표시됨
 
 
 ## 🧾 Update History
