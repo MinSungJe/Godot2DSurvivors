@@ -14,7 +14,24 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-07)**
+**⚙ (2023-11-08)**
+> **Change Acceleration**
+>- GameCamera : 카메라가 조금 더 빠르게 Player에 따라붙음
+>- Player : 약간의 가속효과 추가, 이동속도 감소
+>- Enemy : 이동속도 감소
+>
+> **Enemy**
+>- 이제 Enemy끼리 완전히 겹쳐지지 않음
+>
+> **Motion Mode Setting**
+>- Player, Enemy의 Motion Mode를 Grounded -> Floating으로 변경
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-07)</b></summary>
+
 > **Ability**
 >- 이제 Sword Ability가 Enemy를 없앰
 >- 이제 Sword Ability가 Enemy 주변에서 적절하게 회전되어 공격함
@@ -22,9 +39,7 @@
 > **Enemy Manager**
 >- Enemy Manager 추가
 >- 이제 Basic Enemy가 플레이어 주변에서 자동으로 생성됨
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-06)</b></summary>
