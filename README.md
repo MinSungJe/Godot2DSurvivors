@@ -18,6 +18,8 @@
 > **Experience Vial**
 >- Experience Vial 추가
 >- Player와 일정 거리 안에 있으면 사라짐
+>- Experience Manager, GameEvents(Autoload) 추가
+>- Player가 Experience Vial을 먹으면 현재 Experience 수치가 Console에 표시됨
 
 
 ## 🧾 Update History
