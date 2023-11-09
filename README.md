@@ -20,6 +20,12 @@
 >- Player와 일정 거리 안에 있으면 사라짐
 >- Experience Manager, GameEvents(Autoload) 추가
 >- Player가 Experience Vial을 먹으면 현재 Experience 수치가 Console에 표시됨
+>
+> **Components**
+>- Composition 기법 활용
+>- HealthComponent와 VialDropComponent 추가
+>- HealthComponent : 체력 기능을 활용할 수 있음
+>- VialDropComponent : 죽고 나서 vial을 떨어뜨릴 수 있음
 
 
 ## 🧾 Update History
