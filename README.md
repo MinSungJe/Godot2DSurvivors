@@ -14,7 +14,17 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-08)**
+**⚙ (2023-11-09)**
+> **Experience Vial**
+>- Experience Vial 추가
+>- Player와 일정 거리 안에 있으면 사라짐
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-08)</b></summary>
+
 > **Change Acceleration**
 >- GameCamera : 카메라가 조금 더 빠르게 Player에 따라붙음
 >- Player : 약간의 가속효과 추가, 이동속도 감소
@@ -29,9 +39,7 @@
 > **Time**
 >- ArenaTimeManager, ArenaTimeUI 추가
 >- 이제 진행 시간이 UI로 표시됨
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-07)</b></summary>
