@@ -14,7 +14,20 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-09)**
+**⚙ (2023-11-13)**
+> **Components**
+>- HitboxComponent와 HurtboxComponent 추가
+>- HitboxComponent : SwordAbility를 구성, Layer, Damage 설정
+>- HurtboxComponent : BasicEnemy를 구성, Mask, Damage를 HitboxComponent에서 전달받아 HealthComponent의 Damage()를 실행시킴
+>- 두 Components를 활용해 Damage 기능 추가
+>- 이제 BasicEnemy가 SwordAbility 두 방에 사라짐
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-09)</b></summary>
+
 > **Experience Vial**
 >- Experience Vial 추가
 >- Player와 일정 거리 안에 있으면 사라짐
@@ -26,9 +39,7 @@
 >- HealthComponent와 VialDropComponent 추가
 >- HealthComponent : 체력 기능을 활용할 수 있음
 >- VialDropComponent : 죽고 나서 vial을 떨어뜨릴 수 있음
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-08)</b></summary>
