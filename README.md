@@ -14,16 +14,24 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-13)**
+**⚙ (2023-11-14)**
+> **Experience Bar**
+>- Experience Bar 추가
+>- Vial을 먹은 만큼 추가된 Experience Bar가 화면에 보임
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-13)</b></summary>
+
 > **Components**
 >- HitboxComponent와 HurtboxComponent 추가
 >- HitboxComponent : SwordAbility를 구성, Layer, Damage 설정
 >- HurtboxComponent : BasicEnemy를 구성, Mask, Damage를 HitboxComponent에서 전달받아 HealthComponent의 Damage()를 실행시킴
 >- 두 Components를 활용해 Damage 기능 추가
 >- 이제 BasicEnemy가 SwordAbility 두 방에 사라짐
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-09)</b></summary>
