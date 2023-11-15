@@ -14,13 +14,26 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-14)**
-> **Experience Bar**
->- Experience Bar 추가
->- Vial을 먹은 만큼 추가된 Experience Bar가 화면에 보임
+**⚙ (2023-11-15)**
+> **Resources**
+>- ability_upgrade script를 가지고 있는 sword_rate Resource 추가
+>- id, name, discription을 export variable로 가짐
+>
+> **Upgrade Manager**
+>- Upgrade Manager 추가
+>- Experience Manager의 LevelUp 신호를 받아 Upgrade가 진행됨
+>- upgrade pool 중 하나를 랜덤으로 골라 Dictionary에 집어넣음
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-14)</b></summary>
+
+> **Experience Bar**
+>- Experience Bar 추가
+>- Vial을 먹은 만큼 추가된 Experience Bar가 화면에 보임
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-13)</b></summary>
