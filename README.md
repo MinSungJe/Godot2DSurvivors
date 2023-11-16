@@ -14,7 +14,18 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-15)**
+**⚙ (2023-11-16)**
+> **Upgrade UI**
+>- UpgradeScreen, UpgradeCard 추가
+>- LevelUp시, Dictionary에 넣어진 upgrade 정보가 화면에 나옴
+>- 게임은 Pause상태가 됨
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-15)</b></summary>
+
 > **Resources**
 >- ability_upgrade script를 가지고 있는 sword_rate Resource 추가
 >- id, name, discription을 export variable로 가짐
@@ -23,9 +34,7 @@
 >- Upgrade Manager 추가
 >- Experience Manager의 LevelUp 신호를 받아 Upgrade가 진행됨
 >- upgrade pool 중 하나를 랜덤으로 골라 Dictionary에 집어넣음
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-14)</b></summary>
