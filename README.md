@@ -14,14 +14,22 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-16)**
+**⚙ (2023-11-17)**
+> **Upgrade UI**
+>- Upgrade UI로 나온 UpgradeCard를 누르면 실제로 누른 Upgrade가 Dictionary에 들어감
+>- Upgrade UI가 사라지고 게임은 다시 진행됨
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-16)</b></summary>
+
 > **Upgrade UI**
 >- UpgradeScreen, UpgradeCard 추가
 >- LevelUp시, Dictionary에 넣어진 upgrade 정보가 화면에 나옴
 >- 게임은 Pause상태가 됨
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-15)</b></summary>
