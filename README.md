@@ -19,6 +19,10 @@
 >- Scene Tree 정리
 >- Tree에 Entities, Foreground Node2D 생성
 >- Entities에는 Player와 Enemy가, Foreground에는 Ability가 위치함
+>
+> **Player**
+>- Health 추가 (HealthComponent 이용)
+>- 0.5초 간의 무적시간이 있음
 
 
 ## 🧾 Update History
