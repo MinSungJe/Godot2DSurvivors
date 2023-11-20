@@ -14,12 +14,21 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-18)**
-> **Upgrade**
->- Upgrade UI로 나온 UpgradeCard를 누르면 실제로 해당 Upgrade가 적용되도록 변경
+**⚙ (2023-11-20)**
+> **Scene Tree**
+>- Scene Tree 정리
+>- Tree에 Entities, Foreground Node2D 생성
+>- Entities에는 Player와 Enemy가, Foreground에는 Ability가 위치함
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-18)</b></summary>
+
+> **Upgrade**
+>- Upgrade UI로 나온 UpgradeCard를 누르면 실제로 해당 Upgrade가 적용되도록 변경
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-17)</b></summary>
