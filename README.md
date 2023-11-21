@@ -14,7 +14,17 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-20)**
+**⚙ (2023-11-22)**
+> **Player**
+>- HealthBar 추가
+>- 현재 체력을 표시함
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-20)</b></summary>
+
 > **Scene Tree**
 >- Scene Tree 정리
 >- Tree에 Entities, Foreground Node2D 생성
@@ -23,9 +33,7 @@
 > **Player**
 >- Health 추가 (HealthComponent 이용)
 >- 0.5초 간의 무적시간이 있음
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-18)</b></summary>
