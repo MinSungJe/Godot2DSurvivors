@@ -18,6 +18,10 @@
 > **Player**
 >- HealthBar 추가
 >- 현재 체력을 표시함
+>
+> **UI**
+>- EndScreen 추가
+>- VictoryScreen과 DefeatScreen을 출력함
 
 
 ## 🧾 Update History
