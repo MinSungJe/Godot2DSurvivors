@@ -1,17 +1,20 @@
-[gd_scene load_steps=11 format=3 uid="uid://ds3rbncs3ivh0"]
+[gd_scene load_steps=12 format=3 uid="uid://ds3rbncs3ivh0"]
 
 [ext_resource type="PackedScene" uid="uid://cbg11gutnupao" path="res://scenes/game_object/player/player.tscn" id="1_5yo4b"]
 [ext_resource type="PackedScene" uid="uid://b8g3vtduqhwol" path="res://scenes/game_object/game_camera/game_camera.tscn" id="1_7twnl"]
 [ext_resource type="TileSet" uid="uid://o57lle67v4v" path="res://resources/tileset.tres" id="1_70m11"]
+[ext_resource type="Script" path="res://scenes/main/main.gd" id="1_etudr"]
 [ext_resource type="PackedScene" uid="uid://bo51r1gmn1xe8" path="res://scenes/ui/arena_time_ui.tscn" id="1_lf2ln"]
 [ext_resource type="PackedScene" uid="uid://cpjteo1gp16lv" path="res://scenes/manager/arena_time_manager.tscn" id="2_5mhux"]
 [ext_resource type="PackedScene" uid="uid://3x65gt1013t3" path="res://scenes/ui/experience_bar.tscn" id="2_ktiio"]
 [ext_resource type="PackedScene" uid="uid://b36iosh7olfrx" path="res://scenes/manager/enemy_manager.tscn" id="4_2i5mx"]
-[ext_resource type="PackedScene" uid="uid://cq4oouw45ippu" path="res://scenes/ui/victory_screen.tscn" id="4_4a84b"]
+[ext_resource type="PackedScene" uid="uid://cq4oouw45ippu" path="res://scenes/ui/end_screen.tscn" id="4_daufe"]
 [ext_resource type="PackedScene" uid="uid://dx33kiw6yl11i" path="res://scenes/manager/experience_manager.tscn" id="4_mymco"]
 [ext_resource type="PackedScene" uid="uid://cippy3sf05ow1" path="res://scenes/manager/upgrade_manager.tscn" id="9_8t3sc"]
 
 [node name="Main" type="Node"]
+script = ExtResource("1_etudr")
+end_screen_scene = ExtResource("4_daufe")
 
 [node name="ArenaTimeUI" parent="." node_paths=PackedStringArray("arena_time_manager") instance=ExtResource("1_lf2ln")]
 arena_time_manager = NodePath("../ArenaTimeManager")
@@ -20,7 +23,6 @@ arena_time_manager = NodePath("../ArenaTimeManager")
 experience_manager = NodePath("../ExperienceManager")
 
 [node name="ArenaTimeManager" parent="." instance=ExtResource("2_5mhux")]
-victory_screen_scene = ExtResource("4_4a84b")
 
 [node name="EnemyManager" parent="." instance=ExtResource("4_2i5mx")]
 
@@ -40,6 +42,7 @@ layer_0/tile_data = PackedInt32Array(524305, 0, 4, 524304, 0, 4, 458767, 0, 4, 4
 y_sort_enabled = true
 
 [node name="Player" parent="Entities" instance=ExtResource("1_5yo4b")]
+unique_name_in_owner = true
 position = Vector2(551, 369)
 
 [node name="Foreground" type="Node2D" parent="." groups=["foreground_layer"]]
