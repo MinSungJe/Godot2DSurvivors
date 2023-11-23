@@ -14,7 +14,17 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-22)**
+**⚙ (2023-11-23)**
+> **Difficulty**
+>- 시간이 지남에 따라 Enemy Spawn rate 증가
+>- 5초마다 difficulty 상승
+
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-22)</b></summary>
+
 > **Player**
 >- HealthBar 추가
 >- 현재 체력을 표시함
@@ -22,9 +32,7 @@
 > **UI**
 >- EndScreen 추가
 >- VictoryScreen과 DefeatScreen을 출력함
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-20)</b></summary>
