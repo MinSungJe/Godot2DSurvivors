@@ -14,13 +14,21 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-23)**
-> **Difficulty**
->- 시간이 지남에 따라 Enemy Spawn rate 증가
->- 5초마다 difficulty 상승
+**⚙ (2023-11-24)**
+> **TileMap**
+>- 벽 타일맵, 바깥 배경 TileMap 추가
+>- 이제 벽 타일맵 바깥으로 Entity들이 이동할 수 없음
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-23)</b></summary>
+
+> **Difficulty**
+>- 시간이 지남에 따라 Enemy Spawn rate 증가
+>- 5초마다 difficulty 상승
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-22)</b></summary>
