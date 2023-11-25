@@ -14,13 +14,20 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-24)**
-> **TileMap**
->- 벽 타일맵, 바깥 배경 TileMap 추가
->- 이제 벽 타일맵 바깥으로 Entity들이 이동할 수 없음
+**⚙ (2023-11-25)**
+> **Enemy Manager**
+>- 벽 바깥에서 Enemy가 생성되는 현상 수정
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-24)</b></summary>
+
+> **TileMap**
+>- 벽 타일맵, 바깥 배경 TileMap 추가
+>- 이제 벽 타일맵 바깥으로 Entity들이 이동할 수 없음
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-23)</b></summary>
