@@ -14,12 +14,23 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-25)**
-> **Enemy Manager**
->- 벽 바깥에서 Enemy가 생성되는 현상 수정
+**⚙ (2023-11-26)**
+> **Ability**
+>- Axe Ability 추가
+>- AxeAbility Scene과 AxeAbilityController 추가
+>- Axe가 Enemy를 공격함
+>- Axe가 플레이어 주위로 회전하며 이동함 (Tween 이용)
 
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-25)</b></summary>
+
+> **Enemy Manager**
+>- 벽 바깥에서 Enemy가 생성되는 현상 수정
+</details>
+
 
 <details>
 <summary><b>⚙ (2023-11-24)</b></summary>
