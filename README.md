@@ -14,15 +14,24 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-26)**
+**⚙ (2023-11-27)**
+> **Upgrade**
+>- Axe Ability가 Upgrade UI에 나옴
+>- Upgrade UI를 통해 Axe Ability가 적용됨
+>- 이제 UpgradeCard가 최대 2개씩 중복없이 나옴
+>- Axe는 Ability 분류임 -> 기본공격이 아닌 Upgrade로 추가를 하는 방식
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-26)</b></summary>
+
 > **Ability**
 >- Axe Ability 추가
 >- AxeAbility Scene과 AxeAbilityController 추가
 >- Axe가 Enemy를 공격함
 >- Axe가 플레이어 주위로 회전하며 이동함 (Tween 이용)
-
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-25)</b></summary>
