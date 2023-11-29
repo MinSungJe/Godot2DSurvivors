@@ -14,12 +14,19 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-28)**
+**⚙ (2023-11-29)**
+> **Player**
+>- Animation 추가
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-28)</b></summary>
+
 > **Ability**
 >- Ability 최대 선택가능 횟수 추가(Sword: 5, Axe: 1)
 >- AxeAbility의 쿨다운 증가 (2s -> 3.5s)
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-27)</b></summary>
