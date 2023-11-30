@@ -14,11 +14,21 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-29)**
-> **Player**
->- Animation 추가
+**⚙ (2023-11-30)**
+> **Enemy**
+>- Enemy 이동 Animation 추가
+>
+> **Death Component**
+>- Enemy Death Animation 구현을 위한 Death Component 구현
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-29)</b></summary>
+
+> **Player**
+>- Animation 추가
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-28)</b></summary>
