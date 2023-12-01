@@ -14,20 +14,29 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-11-30)**
+**⚙ (2023-12-01)**
+> **Enemy**
+>- Enemy Death Animation 구현 (DeathComponent 이용)
+>- 이동하는 방향에 따라 Sprite가 자연스럽게 반전됨
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-11-30)</b></summary>
+
 > **Enemy**
 >- Enemy 이동 Animation 추가
 >
 > **Death Component**
 >- Enemy Death Animation 구현을 위한 Death Component 구현
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-29)</b></summary>
 
 > **Player**
 >- Animation 추가
+>- 이동하는 방향에 따라 Sprite가 자연스럽게 반전됨
 </details>
 
 <details>
