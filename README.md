@@ -14,12 +14,23 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-01)**
+**⚙ (2023-12-03)**
+> **Enemy**
+>- Wizard Enemy 추가
+>
+>- **Velocity Component**
+>- Enemy들의 이동을 관리하는 Velocity Component 추가
+>- Max speed와 Acceleration을 조절할 수 있음
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-01)</b></summary>
+
 > **Enemy**
 >- Enemy Death Animation 구현 (DeathComponent 이용)
 >- 이동하는 방향에 따라 Sprite가 자연스럽게 반전됨
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-11-30)</b></summary>
