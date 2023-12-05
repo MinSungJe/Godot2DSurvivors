@@ -14,12 +14,19 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-04)**
+**⚙ (2023-12-05)**
+> **Wizard Enemy**
+>- Animation 추가
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-04)</b></summary>
+
 > **Weight Tabel**
 >- Enemy들의 스폰율을 조절하는 Weight Table Script 추가
 >- 이제 여러 Enemy들의 출현 빈도를 조절할 수 있음
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-03)</b></summary>
