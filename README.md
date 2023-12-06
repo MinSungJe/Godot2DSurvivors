@@ -14,11 +14,18 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-05)**
-> **Wizard Enemy**
+**⚙ (2023-12-06)**
+> **Experience Vial**
 >- Animation 추가
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-05)</b></summary>
+
+> **Wizard Enemy**
+>- Animation 추가
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-04)</b></summary>
