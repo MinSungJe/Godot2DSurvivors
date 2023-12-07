@@ -14,11 +14,19 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-06)**
-> **Experience Vial**
->- Animation 추가
+**⚙ (2023-12-07)**
+> **Theme**
+>- Theme 생성
+>- Font 추가
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-06)</b></summary>
+
+> **Experience Vial**
+>- Animation 추가
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-05)</b></summary>
