@@ -14,12 +14,22 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-07)**
+**⚙ (2023-12-09)**
+> **Floating Text**
+>- FLoating Text 추가
+>- Enemy에게 주는 Damage가 표기됨
+
+## 🧾 Update History
+
+
+<details>
+<summary><b>⚙ (2023-12-07)</b></summary>
+
 > **Theme**
 >- Theme 생성
 >- Font 추가
+</details>
 
-## 🧾 Update History
 
 <details>
 <summary><b>⚙ (2023-12-06)</b></summary>
