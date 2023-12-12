@@ -14,13 +14,23 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-09)**
-> **Floating Text**
->- FLoating Text 추가
->- Enemy에게 주는 Damage가 표기됨
+**⚙ (2023-12-12)**
+> **Hit Flash Component**
+>- HitFlashComponent 추가
+>- Enemy의 체력이 변화하면 반짝이는 효과를 넣어줌
+>
+> **Enemy**
+>- HitFlash 효과 추가
 
 ## 🧾 Update History
 
+<details>
+<summary><b>⚙ (2023-12-09)</b></summary>
+
+> **Floating Text**
+>- FLoating Text 추가
+>- Enemy에게 주는 Damage가 표기됨
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-07)</b></summary>
