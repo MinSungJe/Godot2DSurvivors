@@ -14,15 +14,28 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-12)**
+**⚙ (2023-12-13)**
+> **Upgrade**
+>- Sword Damage Upgrade, Axe Damage Upgrade 추가
+>- Upgrade Manager의 upgrade_pool을 WeightedTable로 변경 
+>- Axe Upgrade를 하지 않으면 Axe Damage Upgrade가 나타나지 않도록 수정
+>
+> **Floating Text**
+>- Floating Text에 format 추가
+>- 이제 정수가 아닐 경우 소수점 첫째자리까지 표시함
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-12)</b></summary>
+
 > **Hit Flash Component**
 >- HitFlashComponent 추가
 >- Enemy의 체력이 변화하면 반짝이는 효과를 넣어줌
 >
 > **Enemy**
 >- HitFlash 효과 추가
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-09)</b></summary>
