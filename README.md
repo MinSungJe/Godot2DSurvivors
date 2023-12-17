@@ -14,7 +14,16 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-13)**
+**⚙ (2023-12-17)**
+> **Theme**
+>- PanelContainer를 위한 Theme 추가
+>- 이제 Upgrade Panel에 푸른색 Panel이 적용됨
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-13)</b></summary>
+
 > **Upgrade**
 >- Sword Damage Upgrade, Axe Damage Upgrade 추가
 >- Upgrade Manager의 upgrade_pool을 WeightedTable로 변경 
@@ -23,8 +32,7 @@
 > **Floating Text**
 >- Floating Text에 format 추가
 >- 이제 정수가 아닐 경우 소수점 첫째자리까지 표시함
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-12)</b></summary>
