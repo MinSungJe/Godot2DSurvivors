@@ -14,12 +14,20 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-17)**
+**⚙ (2023-12-18)**
+> **Theme**
+>- NameLabel을 담기 위한 Theme Update(AlternatePanelContainer)
+>- Upgrade Panel Theme의 디자인 수정
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-17)</b></summary>
+
 > **Theme**
 >- PanelContainer를 위한 Theme 추가
 >- 이제 Upgrade Panel에 푸른색 Panel이 적용됨
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-13)</b></summary>
