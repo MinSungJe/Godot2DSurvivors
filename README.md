@@ -14,12 +14,20 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-18)**
+**⚙ (2023-12-19)**
+> **Upgrade**
+>- Upgrade Card에 in, Hover, discard Animation 추가
+>- Upgrade 선택 창에 약간의 Background 추가
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-18)</b></summary>
+
 > **Theme**
 >- NameLabel을 담기 위한 Theme Update(AlternatePanelContainer)
 >- Upgrade Panel Theme의 디자인 수정
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-17)</b></summary>
