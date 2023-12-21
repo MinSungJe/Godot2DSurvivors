@@ -14,12 +14,19 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-19)**
+**⚙ (2023-12-21)**
+> **Experience Bar**
+>- Experience Bar 테마 수정
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-19)</b></summary>
+
 > **Upgrade**
 >- Upgrade Card에 in, Hover, discard Animation 추가
 >- Upgrade 선택 창에 약간의 Background 추가
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-18)</b></summary>
