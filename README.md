@@ -14,11 +14,18 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-21)**
-> **Experience Bar**
->- Experience Bar 테마 수정
+**⚙ (2023-12-23)**
+> **End Screen**
+>- End Screen Animatio 추가
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-21)</b></summary>
+
+> **Experience Bar**
+>- Experience Bar 테마 수정
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-19)</b></summary>
