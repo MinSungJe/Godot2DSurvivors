@@ -14,11 +14,18 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-23)**
-> **End Screen**
->- End Screen Animatio 추가
+**⚙ (2023-12-24)**
+> **Theme**
+>- Button Style 추가
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-23)</b></summary>
+
+> **End Screen**
+>- End Screen Animation 추가
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-21)</b></summary>
