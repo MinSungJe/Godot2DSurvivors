@@ -14,11 +14,22 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-24)**
-> **Theme**
->- Button Style 추가
+**⚙ (2023-12-25)**
+> **Player**
+>- 이동속도 감소
+>- VelocityComponent 추가
+>
+> **Upgrade**
+>- Player MovementSpeed Upgrade 추가
 
 ## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-24)</b></summary>
+
+> **Theme**
+>- Button Style 추가
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-23)</b></summary>
