@@ -14,15 +14,23 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-25)**
+**⚙ (2023-12-28)**
+> **Vignette**
+>- Vignette 추가
+>- Player Health가 변화할 시 Player Damage 효과 추가
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-25)</b></summary>
+
 > **Player**
 >- 이동속도 감소
 >- VelocityComponent 추가
 >
 > **Upgrade**
 >- Player MovementSpeed Upgrade 추가
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-24)</b></summary>
