@@ -14,12 +14,21 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-28)**
+**⚙ (2023-12-29)**
+> **SFX**
+>- SFX를 위한 Sound 파일 추가
+>- RandomStreamPlayer 추가
+>- Enemy가 공격받으면 5가지 중 랜덤한 소리가 남
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-28)</b></summary>
+
 > **Vignette**
 >- Vignette 추가
 >- Player Health가 변화할 시 Player Damage 효과 추가
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-25)</b></summary>
