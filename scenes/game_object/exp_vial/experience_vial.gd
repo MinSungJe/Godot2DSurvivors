@@ -30,6 +30,7 @@ func disable_collision():
 
 func on_area_entered(other_area: Area2D):
 	Callable(disable_collision).call_deferred()	
+	
 	var tween = create_tween()
 	tween.set_parallel()
 	tween.tween_method(tween_collect.bind(global_position), 0.0, 1.0, 0.5)\
@@ -39,3 +40,4 @@ func on_area_entered(other_area: Area2D):
 	tween.chain()
 	tween.tween_callback(collect)
 	
+	$RandomStreamPlayer2DComponent.play_random()
