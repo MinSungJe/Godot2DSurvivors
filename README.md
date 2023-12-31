@@ -14,14 +14,22 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-30)**
+**⚙ (2023-12-31)**
+> **SFX**
+>- SoundButton 추가
+>- RestartButton과 QuitButton 교체
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-30)</b></summary>
+
 > **SFX**
 >- SFX를 위한 Sound 파일 추가
 >- RandomStreamPlayer에 Pitch Random 옵션 추가
 >- Experience Vial을 먹으면 5가지 중 랜덤한 소리가 남
 >- Player가 공격받으면 5가지 중 랜덤한 소리가 남
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-29)</b></summary>
