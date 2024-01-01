@@ -14,12 +14,19 @@
 
 
 ## 📢 Recent Update
-**⚙ (2023-12-31)**
+**⚙ (2024-01-01)**
+> **SFX**
+>- UpgradeCard Click 및 Hover Sound 추가
+
+## 🧾 Update History
+
+<details>
+<summary><b>⚙ (2023-12-31)</b></summary>
+
 > **SFX**
 >- SoundButton 추가
 >- RestartButton과 QuitButton 교체
-
-## 🧾 Update History
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-30)</b></summary>
