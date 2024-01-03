@@ -14,11 +14,17 @@
 
 
 ## 📢 Recent Update
-**⚙ (2024-01-01)**
+**⚙ (2024-01-03)**
 > **SFX**
->- UpgradeCard Click 및 Hover Sound 추가
+>- Victory jingle, Defeat jingle 추가
 
 ## 🧾 Update History
+<details>
+<summary><b>⚙ (2024-01-01)</b></summary>
+
+> **SFX**
+>- UpgradeCard Click 및 Hover Sound 추가
+</details>
 
 <details>
 <summary><b>⚙ (2023-12-31)</b></summary>
