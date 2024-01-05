@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://chx5q3rnxipic"]
+
+[ext_resource type="AudioStream" uid="uid://c5m2pg4m2xqwd" path="res://assets/audio/Beat Thee.mp3" id="1_2ij24"]
+[ext_resource type="Script" path="res://scenes/autoload/music_player.gd" id="2_3eejr"]
+
+[node name="MusicPlayer" type="AudioStreamPlayer"]
+process_mode = 3
+stream = ExtResource("1_2ij24")
+volume_db = -12.0
+autoplay = true
+bus = &"Music"
+script = ExtResource("2_3eejr")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 15.0
+one_shot = true
