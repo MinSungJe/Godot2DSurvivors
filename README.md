@@ -14,11 +14,18 @@
 
 
 ## 📢 Recent Update
-**⚙ (2024-01-03)**
-> **SFX**
->- Victory jingle, Defeat jingle 추가
+**⚙ (2024-01-05)**
+> **Music**
+>- Music 추가
 
 ## 🧾 Update History
+<details>
+<summary><b>⚙ (2024-01-03)</b></summary>
+
+> **SFX**
+>- Victory jingle, Defeat jingle 추가
+</details>
+
 <details>
 <summary><b>⚙ (2024-01-01)</b></summary>
 
