@@ -14,11 +14,20 @@
 
 
 ## 📢 Recent Update
-**⚙ (2024-01-05)**
-> **Music**
->- Music 추가
+**⚙ (2024-01-08)**
+> **Main Menu**
+>- Main Menu 추가
+>- Play, Options, Quit Button이 있음
+>- 시작 화면이 Main -> Main Menu로 변경 됨
 
 ## 🧾 Update History
+<details>
+<summary><b>⚙ (2024-01-05)</b></summary>
+
+> **Music**
+>- Music 추가
+</details>
+
 <details>
 <summary><b>⚙ (2024-01-03)</b></summary>
 
