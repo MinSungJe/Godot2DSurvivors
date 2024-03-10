@@ -3,7 +3,7 @@
 
 > 🏹 Practice for Godot with making 2D Survivors Game.  
 >>**🗡 Reference** : [ **Create a Complete 2D Survivors Style Game in Godot 4** 
- ](https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/) by [Firebelley Games](https://www.udemy.com/user/firebelley-games/)
+ ](https://www.udemy.com/course/create-a-complete-2d-arena-survival-roguelike-game-in-godot-4) by [Firebelley Games](https://www.udemy.com/user/firebelley-games/)
 >> <details>
 >><summary><b>🗡 More Information about References</b></summary>
 >>
